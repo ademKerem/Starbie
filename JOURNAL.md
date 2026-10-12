@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 4.5h | 2 |
+| Week 1 | Tier 1 | 6h | 2 |
 
 ## Contents
 
@@ -21,19 +21,21 @@
 
 ### 2026-10-11 – It took a while for me to set it up, had some errors with the things not showing up. Using the guide, experimenting, and using ai to clean up the differences that I couldn't figure out. It was a big c
 
-**4h**
+**5.5h**
 
-It took a while for me to set it up, had some errors with the things not showing up. Using the guide, experimenting, and using ai to clean up the differences that I couldn't figure out. It was a big challenge to stick to something as new as this but its been a good experience to prepare the setup and figure out how some of these commands work. Setting up the workspace to work was definitely a great first win. At a bit past  3 hours in, I finally fixed all of the unconnected part errors, I had to use ai in order to learn that I added vias by pressing v and connecting the things. This was a pretty big error that I had to spend a lot of time trying to fix. The rest of it was smooth sailing and I'm extremely excited to have powered through the project. However, I noticed that I lacked knowledge in a lot of parts and needed outside help so I need to work on that
+It took a while for me to set it up, had some errors with the things not showing up. Using the guide, experimenting, and using ai to clean up the differences that I couldn't figure out. It was a big challenge to stick to something as new as this but its been a good experience to prepare the setup and figure out how some of these commands work. Setting up the workspace to work was definitely a great first win. At a bit past  4.5  hours in, I finally fixed all of the unconnected part errors, I had to use ai in order to learn that I added vias by pressing v and connecting the things. This was a pretty big error that I had to spend a lot of time trying to fix. The rest of it was smooth sailing and I'm extremely excited to have powered through the project. However, I noticed that I lacked knowledge in a lot of parts and needed outside help so I need to work on that
 
-![IMG_1322](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/5zoGLB3303hAzMNwTeL1IqiVvNfE7Gs3/fdf3b3f26b164fe2fe99b7d68ffe96ae2403e74279a22a49978ba01c669c40eb.png)
+![IMG_1319](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/5zoGLB3303hAzMNwTeL1IqiVvNfE7Gs3/af5514d4aec16546fa2ff9efff71f16c26827ada5de9974dbd3b7c87fa5c55d8.png)
 
-![IMG_E1321](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/5zoGLB3303hAzMNwTeL1IqiVvNfE7Gs3/6c05e57905d6cac89f18220585794e2e1e00f38d22f18a51d17362db82beb027.png)
+![IMG_1316](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/5zoGLB3303hAzMNwTeL1IqiVvNfE7Gs3/9eb21f172fda9c36e3e7e581195fb5a261b26739aae06cf92b8a09fe551a791f.png)
 
-![IMG_1320](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/5zoGLB3303hAzMNwTeL1IqiVvNfE7Gs3/a9e587ce0b02a8ecad058ecec04feb4a14f418ca9aa009c18bdc201b26410b28.png)
+![IMG_1320](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/5zoGLB3303hAzMNwTeL1IqiVvNfE7Gs3/45572af90b8a36e87d3bd3a6f099c34f879928e75a8c9742c61df7b7df67b6b8.png)
 
-![IMG_1316](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/5zoGLB3303hAzMNwTeL1IqiVvNfE7Gs3/062091d1c4ce1f04d3c60c04eef006a082c740560d5becf42bca238e553a54ac.png)
+![IMG_1323](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/5zoGLB3303hAzMNwTeL1IqiVvNfE7Gs3/8fee10367c5da07f7b96eb71630af7eae012d5f2f22f15e29e66fcd9e86cba6c.png)
 
-![IMG_1319](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/5zoGLB3303hAzMNwTeL1IqiVvNfE7Gs3/ee27afb816fb14c58e02d94bfe7146e6522fbcc4ef4cf8f874b706ab7c72833a.png)
+![IMG_1322](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/5zoGLB3303hAzMNwTeL1IqiVvNfE7Gs3/7682c86b503fcc9f1ea8c243a8732ea5d00c5431de0e9b3eceeffea8d80710d1.png)
+
+![IMG_E1321](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/5zoGLB3303hAzMNwTeL1IqiVvNfE7Gs3/60752324fdfaddecddcad4c52c588007832737d2f352d3d54c123697ed5ab889.png)
 
 ### 2026-10-11 – Created and worked on the Read.me. I didn't previously know that I had to make a read.me about the project so I went back and created that so that the submission would be complete and I could finally
 
